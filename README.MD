@@ -24,6 +24,8 @@
 
 ### Команда git checkout master
 
+## Команда git dif
+
 
 
 
