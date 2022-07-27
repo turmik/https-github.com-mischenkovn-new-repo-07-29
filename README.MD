@@ -20,6 +20,10 @@
 
 ### Команда git log -p
 
+## Команда git checkout
+
+### Команда git checkout master
+
 
 
 
