@@ -44,7 +44,12 @@
 
 ![alt text for image](IMG_20220727_074648.jpg)
 
+<<<<<<< HEAD
 task2
+=======
+task1
+
+>>>>>>> task1
 
 
 
